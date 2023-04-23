@@ -1,0 +1,8 @@
+body {
+    background-color: bisque;
+    margin: 0;
+}
+#main {
+    aspect-ratio : 1 / 1;
+    background-color: black;
+}
